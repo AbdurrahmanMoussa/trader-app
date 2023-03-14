@@ -12,7 +12,7 @@ MongoDB/Mongoose was used as the database to store information about the Product
 
 Used EJS for templating and CSS/Bootstrap for styling.
 
-Utilized Joi for validation and passport.js for authentication. A
+Utilized Joi for validation and passport.js for authentication. 
 
 Helmet was used as a middleware to add security to the application.
 
